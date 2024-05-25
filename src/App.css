@@ -1,7 +1,22 @@
+html,body{
+  font-family: cairo;
+}
+.background{
+  background-image: url(https://img.freepik.com/free-photo/shopping-cart-filled-with-coins-copy-space-background_23-2148305919.jpg?t=st=1716137623~exp=1716141223~hmac=0cf6afa346e93e2706f631a72c8e3dd276a3747c7089f7d6b9240f413f1557e5&w=740);
+
+}
 .App {
   text-align: center;
 }
-
+/* .bg-primary{
+  background-color: #678fdf !important;
+}
+.bg-success{
+  background-color: #67df9b !important;
+}
+.bg-info{
+  background-color: #dfb249 !important;
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
